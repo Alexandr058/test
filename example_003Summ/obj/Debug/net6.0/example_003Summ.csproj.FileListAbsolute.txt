@@ -1,0 +1,15 @@
+C:\Users\Владимир\Desktop\C#\example_003Summ\bin\Debug\net6.0\example_003Summ.exe
+C:\Users\Владимир\Desktop\C#\example_003Summ\bin\Debug\net6.0\example_003Summ.deps.json
+C:\Users\Владимир\Desktop\C#\example_003Summ\bin\Debug\net6.0\example_003Summ.runtimeconfig.json
+C:\Users\Владимир\Desktop\C#\example_003Summ\bin\Debug\net6.0\example_003Summ.dll
+C:\Users\Владимир\Desktop\C#\example_003Summ\bin\Debug\net6.0\example_003Summ.pdb
+C:\Users\Владимир\Desktop\C#\example_003Summ\obj\Debug\net6.0\example_003Summ.csproj.AssemblyReference.cache
+C:\Users\Владимир\Desktop\C#\example_003Summ\obj\Debug\net6.0\example_003Summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\Desktop\C#\example_003Summ\obj\Debug\net6.0\example_003Summ.AssemblyInfoInputs.cache
+C:\Users\Владимир\Desktop\C#\example_003Summ\obj\Debug\net6.0\example_003Summ.AssemblyInfo.cs
+C:\Users\Владимир\Desktop\C#\example_003Summ\obj\Debug\net6.0\example_003Summ.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\C#\example_003Summ\obj\Debug\net6.0\example_003Summ.dll
+C:\Users\Владимир\Desktop\C#\example_003Summ\obj\Debug\net6.0\refint\example_003Summ.dll
+C:\Users\Владимир\Desktop\C#\example_003Summ\obj\Debug\net6.0\example_003Summ.pdb
+C:\Users\Владимир\Desktop\C#\example_003Summ\obj\Debug\net6.0\example_003Summ.genruntimeconfig.cache
+C:\Users\Владимир\Desktop\C#\example_003Summ\obj\Debug\net6.0\ref\example_003Summ.dll
